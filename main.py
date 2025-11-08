@@ -69,4 +69,4 @@ while True:
 
     pygame.display.update()
     clock.tick(40)
-
+    print(1)
